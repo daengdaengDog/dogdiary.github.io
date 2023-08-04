@@ -44,13 +44,11 @@
 
 
 
-<div style="display: flex; justify-content: space-between;">
-    <a href="[링크1](https://www.instagram.com/mydogdiary_official/)">인스타그램</a>
-    
-    <a href="[링크2](https://sites.google.com/view/dogdiarys/홈/이용약관?authuser=4)">이용약관</a>
-    
-    <a href="[링크3](https://sites.google.com/view/dogdiarys/홈/개인정보처리방침?authuser=4)https://sites.google.com/view/dogdiarys/홈/개인정보처리방침?authuser=4">개인정보처리방침</a>
-    
-</div>
+[인스타그램](https://www.instagram.com/mydogdiary_official/)
+[이용약관](https://sites.google.com/view/dogdiarys/홈/이용약관?authuser=4)
+[개인정보처리방침](https://sites.google.com/view/dogdiarys/홈/개인정보처리방침?authuser=4)https://sites.google.com/view/dogdiarys/홈/개인정보처리방침?authuser=4
+
+
+
 
 Copyright ©견생일기Corp. All rights reserved.
