@@ -1,8 +1,10 @@
 <h1 align="center">🐶 우리 강아지와 함께 쓰는 교환일기, 견생일기!</h1>
 
 ![firstpage.png](./assets/firstpage.png)
-  
-<center> 강아지의 행동을 보면서 강아지의 기분과 생각을 알 수 있다면 얼마나 좋을까요? </center>
+
+<h3 align="center">강아지의 행동을 보면서 강아지의 기분과 생각을 알 수 있다면 얼마나 좋을까요?</h3>
+
+<center>  </center>
 
 <center> 그리고 강아지와 내가 교환일기처럼, 서로 일기장을 쓰며 교감한다면요? </center>
 
