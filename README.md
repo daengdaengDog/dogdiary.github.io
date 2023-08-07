@@ -41,8 +41,10 @@
 <h4 align="center">나와 보낸 일상을 강아지는 어떻게 생각하고 있을까요?</h4>
 <h4 align="center">견주일기가 쌓이면 강아지가 몰래 일기를 쓰고 간답니다!</h4>
 <h4 align="center">우리 집 강아지가 어떤 생각을 하는지 확인해보세요!</h4>
+
   
-  
+<h4 align="center"><a href='https://play.google.com/store/apps/details?id=com.dogdiary.official&pli=1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/ko/badges/static/images/badges/ko_badge_web_generic.png' height=80/></a></h4>
+
   
 [인스타그램](https://www.instagram.com/mydogdiary_official/)  
 [이용약관](https://sites.google.com/view/dogdiarys/홈/이용약관?authuser=4)  
